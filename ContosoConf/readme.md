@@ -4,9 +4,13 @@ JOSE VICENTE TEJERO CALDERERA
 
 RESUMEN
 
-Exercise 2: Sending Messages to a Web Socket
+Exercise 3: Handling Different Web Socket Message Types.
 
-![image-20201003180449567](C:\aa\20480C\Allfiles\Mod13\Labfiles\Starter\Exercise 2\ContosoConf\image-20201003180449567.png)
+Modificamos LivePage.js para manejar y eliminar los mensajes.
+
+![image-20201003183004179](C:\aa\20480C\Allfiles\Mod13\Labfiles\Starter\Exercise 3\ContosoConf\image-20201003183004179.png)
+
+
 
 DIFICULTAD: Funciona pero tengo que verlo varias veces para asimilarlo.
 
